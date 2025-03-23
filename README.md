@@ -24,8 +24,8 @@
 - ⚡ Streamlining my workflow with **Bash** and the command line
 - 🎮 Going through the Advanced Bash-Scripting Guide and Beej's guide to C
 
-**Reading:** The Bash Guide, ISLP (Introduction to Statistical Learning with Python), Introduction to Probability.  
-**Playing:** Over the Wire (Linux command line wargames)
+**Reading:** Dracula 
+**Playing:** Tactics Ogre Reborn
 
 ### Languages
 <a href="https://github.com/Emiliano1919">
