@@ -25,6 +25,7 @@
 - 🎮 Going through Computer Graphics from Scratch
 
 **Reading:** Dracula 
+
 **Playing:** Tactics Ogre Reborn
 
 ### Languages
