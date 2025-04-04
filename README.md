@@ -16,7 +16,7 @@
 - 🎓 University of Ottawa student
 - 🔬 Enthusiast of the intersection between **Computer Science** and **Statistics**
 - 🎨 I love painting, ice skating, photography, and exploring other creative hobbies
-- 📚 Currently learning **Tableau**, **Bash Scripting**, and enhancing my **Statistics** and **Probability** knowledge
+- 📚 Currently learning **Computer Graphics**, **Bash Scripting**, and enhancing my **Statistics** and **Probability** knowledge
 
 ## Projects:
 -   Developing a web app to map the disappearances of Indigenous women in Canada
