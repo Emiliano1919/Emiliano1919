@@ -22,7 +22,7 @@
 -   Developing a web app to map the disappearances of Indigenous women in Canada
 - 📘 Solving major sections of *Introduction to Probability*
 - ⚡ Streamlining my workflow with **Bash** and the command line
-- 🎮 Going through Computer Graphics from Scratch
+- 🎮 Learning about computer graphics
 
 **Reading:** Dracula 
 
