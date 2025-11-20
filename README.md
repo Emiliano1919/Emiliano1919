@@ -16,17 +16,16 @@
 - 🎓 University of Ottawa student
 - 🔬 Enthusiast of the intersection between **Computer Science** and **Statistics**
 - 🎨 I love painting, ice skating, photography, and exploring other creative hobbies
-- 📚 Currently learning **Computer Graphics**, **Bash Scripting**, and enhancing my **Statistics** and **Probability** knowledge
+- 📚 Currently learning **Computer Graphics**, **Code optimization**,**Shaders**, **Kubernetes/Docker** and enhancing my **Statistics** and **Probability** knowledge
 
-## Projects:
--   Developing a web app to map the disappearances of Indigenous women in Canada
-- 📘 Solving major sections of *Introduction to Probability*
-- ⚡ Streamlining my workflow with **Bash** and the command line
-- 🎮 Learning about computer graphics
+## Current Projects:
+- Artificial Intelligence for Othello
+- Learning about code optimization in golang
+- Learning about shaders
 
-**Reading:** Dracula 
+**Reading:** Le Rouge et le noir 
 
-**Playing:** Tactics Ogre Reborn
+**Playing:** Alien Isolation
 
 ### Languages
 <a href="https://github.com/Emiliano1919">
