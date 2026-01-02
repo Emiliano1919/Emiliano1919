@@ -21,7 +21,10 @@
 ## Current Projects:
 - Artificial Intelligence for Othello
 - Learning about code optimization in golang
+- Learning about containers, dockers, kubernetes
 - Learning about shaders
+- Playing around with sizecoding and demos
+- Expanding my C++ knowledge
 
 **Reading:** Le Rouge et le noir 
 
