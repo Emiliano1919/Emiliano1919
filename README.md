@@ -19,14 +19,14 @@
 - 📚 Currently learning **Cryptography**, **Code optimization**,**Parallelization**, **Kubernetes/Docker** and enhancing my **Statistics** and **Probability** knowledge
 
 ## Current Projects:
-- Learning about cryptography (Using Einführung in die Kryptographie, Serious Cryptography, Crytopals)
+- Learning about cryptography (Using Einführung in die Kryptographie, Serious Cryptography, and Crytopals)
 - Artificial Intelligence for Othello
 - Learning about containers, dockers, kubernetes
 - Learning about shaders
 - Playing around with sizecoding and demos
 - Expanding my C++ knowledge
 
-**Reading:** Le Rouge et le noir 
+**Reading:** Einführung in die Kryptographie and Serious Cryptography
 
 **Playing:** Final Fantasy Tactics
 
