@@ -13,14 +13,14 @@
 
 
 ## About Me:
-- 🎓 University of Ottawa student
-- 🔬 Enthusiast of the intersection between **Computer Science** and **Statistics**
+- 🎓 Mathematics and Computer Science graduate.
+- 🔬 I love learning about anything related to computers :)
 - 🎨 I love painting, ice skating, photography, and exploring other creative hobbies
-- 📚 Currently learning **Computer Graphics**, **Code optimization**,**Shaders**, **Kubernetes/Docker** and enhancing my **Statistics** and **Probability** knowledge
+- 📚 Currently learning **Cryptography**, **Code optimization**,**Parallelization**, **Kubernetes/Docker** and enhancing my **Statistics** and **Probability** knowledge
 
 ## Current Projects:
+- Learning about cryptography (Using Einführung in die Kryptographie, Serious Cryptography, Crytopals)
 - Artificial Intelligence for Othello
-- Learning about code optimization in golang
 - Learning about containers, dockers, kubernetes
 - Learning about shaders
 - Playing around with sizecoding and demos
@@ -28,7 +28,7 @@
 
 **Reading:** Le Rouge et le noir 
 
-**Playing:** Alien Isolation
+**Playing:** Final Fantasy Tactics
 
 ### Languages
 <a href="https://github.com/Emiliano1919">
